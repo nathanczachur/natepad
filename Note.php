@@ -1,5 +1,5 @@
 <?php
-
+// comment
 class Note
 {
 	private $title;
